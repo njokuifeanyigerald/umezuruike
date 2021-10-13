@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-oia+4!+u+74nb(mltu1kz64^v=x(x*9+)^$u5bans^@9)$(#qu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['http://127.0.0.1:8000/', 'https://git.heroku.com/umez.git']
 
 
 # Application definition
