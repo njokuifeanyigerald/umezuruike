@@ -11,6 +11,8 @@ boto3 = "*"
 django-cors-headers = "*"
 gunicorn = "*"
 django-heroku = "*"
+psycopg2 = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
