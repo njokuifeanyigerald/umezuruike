@@ -158,7 +158,7 @@ STATICFILES_DIRS = [
 # Cross-Origin Resource Sharing (CORS)
 
 CORS_ALLOWED_ORIGINS = [
-    # "https://sub.example.com",
+    "https://umez.herokuapp.com",
     "http://localhost:8080",
     "http://127.0.0.1:8000",
 ]
